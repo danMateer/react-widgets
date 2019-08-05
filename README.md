@@ -3,6 +3,7 @@ react-widgets
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FdanMateer%2Freact-widgets.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FdanMateer%2Freact-widgets?ref=badge_shield)
 
 An à la carte set of polished, extensible, and accessible form inputs built for React.
 
@@ -40,3 +41,7 @@ The goal is to support IE9+, but it is difficult for me to test a wide variety o
 [npm-url]: https://npmjs.org/package/react-widgets
 [downloads-image]: http://img.shields.io/npm/dm/react-widgets.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/react-widgets
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FdanMateer%2Freact-widgets.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FdanMateer%2Freact-widgets?ref=badge_large)
